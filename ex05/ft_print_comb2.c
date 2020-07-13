@@ -44,15 +44,15 @@ void	ft_print_comb2(void)
 						ft_putchar(',');
 					}
 					d++;
-					c='0';
 				}
 				c++;
-					b='0';
+				d='0';
 			}
 			b++;
-			a='0';
+			c='0';
 		}
 		a++;
+		b='0';
 	}
 
   
